@@ -1,1 +1,0 @@
-Opens and checks live status of "watched" Twitch streamers

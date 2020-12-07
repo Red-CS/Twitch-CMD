@@ -1,0 +1,12 @@
+# Ignore Credentials File
+credentials.md
+
+# Ignore keys.json
+keys.json
+
+# Ignore log File
+log.log
+
+# Ignore pycache
+__pycache__
+*.pyc
